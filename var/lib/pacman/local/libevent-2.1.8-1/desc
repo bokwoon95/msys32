@@ -1,0 +1,45 @@
+%NAME%
+libevent
+
+%VERSION%
+2.1.8-1
+
+%BASE%
+libevent
+
+%DESC%
+An event notification library
+
+%URL%
+http://libevent.org
+
+%ARCH%
+i686
+
+%BUILDDATE%
+1496235107
+
+%INSTALLDATE%
+1535593816
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+735232
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+openssl
+
+%OPTDEPENDS%
+python2: to use event_rpcgen.py
+

@@ -1,0 +1,7 @@
+[difftool]
+	prompt = true
+[alias]
+	d = difftool
+[user]
+	email = admaterialsit@gmail.com
+	name = admaterialsit
